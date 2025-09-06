@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabisankar Pradhan</h1>
-<h3 align="center">A passionate software engineer & data science | from india</h3>
+<h3 align="center">A passionate software engineer & data science engineer | from india</h3>
 
 <image align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFmOXE2YzVnaTlvdnphMGQ5ZWwzejdzdHphbXRhdjRoOHE0ZXQ2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pradhanrabisankar328@gmail.com**
 
-- ⚡ Fun fact **I am so happy😊 and so funny🤣**
+- ⚡ Fun fact **I am so happy😊 and funny🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
