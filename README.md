@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabisankar Pradhan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+(Data+Science)+Student;DSA+with+Java+Learner;Python+Programmer;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+(Data+Science)+Student;DSA+with+Java+Learner;Java+Programmer;Future+Software+Engineer" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 🎓 CSE (Data Science) Undergraduate
 💻 Passionate about **Data Structures & Algorithms**
 🚀 Currently practicing **DSA with Java**
-🐍 Learning **Python Programming**
+☕ Primary programming language **Java**
 📍 Kolkata, India
 
 ---
@@ -60,10 +60,10 @@
 
 ## 📚 Current Learning
 
-* Data Structures & Algorithms
-* Java Programming
-* Python Development
-* Competitive Programming
+• Data Structures & Algorithms with **Java**
+• Object Oriented Programming
+• Problem Solving
+• Competitive Programming
 
 ---
 
@@ -102,4 +102,3 @@
 ---
 
 ⭐ *“Consistency beats talent when talent doesn't practice.”*
-
