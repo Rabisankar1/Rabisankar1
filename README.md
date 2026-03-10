@@ -50,11 +50,11 @@
 
 ---
 
-## 📅 GitHub Contribution Graph
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabisankar1&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Rabisankar1/Rabisankar1/output/snake.svg" alt="Snake animation" />
 
 </p>
 
@@ -67,14 +67,6 @@
 • **DBMS & SQL**
 • Object Oriented Programming
 • Competitive Programming
-
----
-
-## 🧠 Coding Profiles
-
-🔹 LeetCode
-🔹 GeeksforGeeks
-🔹 GitHub
 
 ---
 
