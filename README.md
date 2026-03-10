@@ -52,10 +52,31 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rabisankar1/Rabisankar1/output/github-contribution-grid-snake.svg">
-</p>
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Rabisankar1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 </p>
 
