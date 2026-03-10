@@ -50,11 +50,12 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/Rabisankar1/Rabisankar1/output/github-contribution-grid-snake.svg">
+</p>
 
-<img src="https://raw.githubusercontent.com/Rabisankar1/Rabisankar1/output/snake.svg" alt="Snake animation" />
 
 </p>
 
