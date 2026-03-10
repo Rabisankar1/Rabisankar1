@@ -1,107 +1,104 @@
 <h1 align="center">Hi 👋, I'm Rabisankar Pradhan</h1>
+<h3 align="center">B.Tech CSE (Data Science) Student | Java & DSA Learner | Future Software Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=CSE+(Data+Science)+Student;DSA+with+Java+Learner;Java+|+Python+Programmer;Learning+DBMS+and+SQL;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Data+Science)+Student;Java+Developer;DSA+Enthusiast;Python+Learner;Future+Software+Engineer"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 CSE (Data Science) Undergraduate
+🎓 B.Tech in **Computer Science & Engineering (Data Science)**
 💻 Passionate about **Data Structures & Algorithms**
-🚀 Currently practicing **DSA with Java**
-☕ Primary programming language **Java**
-🐍 Learning **Python Programming**
-🗄️ Learning **DBMS & SQL**
-📍 Kolkata, India
+🐍 Currently learning **Python Programming**
+🗄️ Exploring **DBMS & SQL**
+🚀 Goal: Become a **Software Developer / Data Scientist**
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,git,github,vscode,intellij"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rabisankar1&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=RabisankarPradhan&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabisankar1&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabisankarPradhan&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabisankar1&layout=compact&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=RabisankarPradhan&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📅 GitHub Contribution Graph
+# 🧠 Currently Learning
+
+✔ Data Structures & Algorithms in Java
+✔ Python Programming
+✔ Object Oriented Programming
+✔ DBMS & SQL
+✔ Competitive Programming
+
+---
+
+# 📂 Featured Projects
+
+🔹 **Student Management System (Java)**
+A Java-based application to manage student records.
+
+🔹 **Python Calculator**
+A simple calculator built using Python.
+
+🔹 **Sorting Visualizer**
+Visual representation of sorting algorithms.
+
+🔹 **Todo App**
+A task manager application.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabisankar1&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 📚 Current Learning
-
-• Data Structures & Algorithms with **Java**
-• **Python Programming**
-• **DBMS & SQL**
-• Object Oriented Programming
-• Competitive Programming
-
----
-
-## 🧠 Coding Profiles
-
-🔹 LeetCode
-🔹 GeeksforGeeks
-🔹 GitHub
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rabisankar-pradhan-362986313">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:pradhanrabisankar328@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/RabisankarPradhan">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## 👀 Profile Visitors
+# 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rabisankar1&label=Profile%20views&color=0e75b6&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=RabisankarPradhan&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn't practice.”*
+⭐ **"Consistency beats talent when talent doesn't practice."**
