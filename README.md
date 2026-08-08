@@ -6,14 +6,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=CSE+%28Data+Science%29+Undergraduate;DSA+with+Java+%7C+Python+%7C+SQL;Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+Generative+AI;Building+Skills+%26+Solving+Problems" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://github.com/Rabisankar1">
-    <img src="https://img.shields.io/badge/GitHub-Rabisankar1-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rabisankar-pradhan-362986313/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rabisankar%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/Rabisankar1">
+  <img src="https://img.shields.io/badge/GitHub-Rabisankar1-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rabisankar-pradhan-362986313/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rabisankar%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/rabisankar8670/">
+  <img src="https://img.shields.io/badge/LeetCode-rabisankar8670-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/pradhanrabiaurr">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-pradhanrabiaurr-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 </div>
 
@@ -47,7 +56,7 @@
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=flat-square)
+![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/PLOTLY-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ### 🤖 Machine Learning & AI
@@ -130,11 +139,11 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/rabisankar8670/">
-  <img src="https://img.shields.io/badge/LeetCode-rabisankar8670-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-rabisankar8670-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/pradhanrabiaurr">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-pradhanrabiaurr-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-pradhanrabiaurr-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -159,19 +168,19 @@
 <div align="center">
 
 <a href="https://github.com/Rabisankar1">
-  <img src="https://img.shields.io/badge/GitHub-Rabisankar1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Rabisankar1-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/rabisankar-pradhan-362986313/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rabisankar%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Rabisankar%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/rabisankar8670/">
-  <img src="https://img.shields.io/badge/LeetCode-rabisankar8670-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-rabisankar8670-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/pradhanrabiaurr">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-pradhanrabiaurr-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-pradhanrabiaurr-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -182,7 +191,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rabisankar1&label=Profile%20Visitors&color=0e75b6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Rabisankar1&label=Profile%20Visitors&color=0e75b6&style=flat-square" />
 
 </div>
 
