@@ -1,120 +1,136 @@
-<h1 align="center">Hi 👋, I'm Rabisankar Pradhan</h1>
-<h3 align="center">Aspiring Software Engineer | Data Science Enthusiast</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+(Data+Science)+Student;DSA+with+Java;Python+Developer;SQL+(PostgreSQL+%26+MySQL);Machine+Learning+Enthusiast;Future+Software+Engineer" />
-</p>
-
+<div align="center">
+Rabisankar Pradhan
+Engineering intelligent systems — one algorithm, one model, one API at a time.
+B.Tech CSE (Data Science) '28 · Building at the intersection of DSA, Data Science & Generative AI
+<br>
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
+<br>
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 CSE (Data Science) Undergraduate
-- 💻 Strong interest in **Data Structures & Algorithms**
-- 🚀 Currently focused on **DSA with Java**
-- ☕ Primary Language: **Java**
-- 🐍 Working with **Python (NumPy, Pandas)**
-- 🗄️ Learning **SQL (PostgreSQL & MySQL)**
-- 🤖 Exploring **Machine Learning, Deep Learning, Gen AI & NLP**
-- 📍 Based in Kolkata, India
-
+About Me
+I'm a Computer Science & Engineering (Data Science) undergraduate at Haldia Institute of Technology, focused on building strong problem-solving fundamentals and applying them to real-world intelligent systems.
+🧩 Sharpening DSA & problem-solving using Java
+🐍 Working with Python across the data science stack — NumPy, Pandas, Matplotlib, Seaborn, Plotly
+🤖 Building and evaluating Machine Learning and Deep Learning models
+✨ Exploring Generative AI, NLP, and LLM-based applications
+⚡ Developing backend services with FastAPI, Pydantic, and REST APIs
+🗄️ Working with relational databases — MySQL, PostgreSQL
+🎯 Preparing for SDE, Data Science, and AI/ML internship roles
+<br>
 ---
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,postgres,git,github,vscode,tensorflow" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
+Currently Building
+<div align="center">
+Focus Area	Details
+🧩 DSA with Java	Arrays, Trees, Graphs, Dynamic Programming
+🐍 Python & Data Science	Data wrangling, analysis, visualization
+🤖 Machine Learning / Deep Learning	Model development & evaluation
+✨ Generative AI	LLM-based applications & experimentation
+🗄️ SQL & Databases	Query design, schema modeling
+⚡ FastAPI / Backend	REST APIs with Pydantic validation
+📊 Data Visualization	Power BI, Matplotlib, Seaborn, Plotly
+</div>
+<br>
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabisankar1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabisankar1&theme=tokyonight"/>
-</p>
-
+Tech Stack
+Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+Machine Learning / AI
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-25D366?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<br>
 ---
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabisankar1&layout=compact&theme=tokyonight"/>
-</p>
-
+Featured Projects
+<div align="center">
+Project	Description	Tech Stack	Links
+YOUR_PROJECT_NAME	Placeholder — add a short description of the project's purpose and outcome.	`Tech, Stack, Here`	Repo · Demo
+YOUR_PROJECT_NAME	Placeholder — add a short description of the project's purpose and outcome.	`Tech, Stack, Here`	Repo · Demo
+YOUR_PROJECT_NAME	Placeholder — add a short description of the project's purpose and outcome.	`Tech, Stack, Here`	Repo · Demo
+</div>
+> Replace these placeholders with your real Machine Learning, Data Science, Java/DSA, or backend projects once ready — recruiters weigh real repositories far more than stats.
+<br>
 ---
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabisankar1&theme=tokyo-night"/>
-</p>
-
+GitHub Statistics
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</div>
+<br>
 ---
-
-## 📚 Current Focus
-
-| Area | Topics |
-|------|--------|
-| 🔹 Algorithms | Data Structures & Algorithms (Java) |
-| 🔹 Database | SQL — PostgreSQL & MySQL |
-| 🔹 Data Science | Python · NumPy · Pandas · Matplotlib |
-| 🔹 ML / AI | Machine Learning · Deep Learning · Gen AI · NLP |
-| 🔹 Core CS | Object-Oriented Programming · Competitive Programming |
-
+Coding Profiles
+<div align="center">
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+</div>
+<br>
 ---
-
-## 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/rabisankar8670/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/Rabisankar1" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rabisankar1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
+Current Learning Roadmap
+DSA
+`Arrays` → `Strings` → `Linked Lists` → `Stack` → `Queue` → `Trees` → `Graphs` → `Dynamic Programming`
+Data Science
+`Python` → `NumPy` → `Pandas` → `Visualization` → `Statistics` → `EDA`
+AI / ML
+`Machine Learning` → `Deep Learning` → `NLP` → `Generative AI` → `LLM Applications`
+Development
+`FastAPI` → `APIs` → `Pydantic` → `Deployment`
+<br>
 ---
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rabisankar-pradhan-362986313" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pradhanrabisankar328@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+Career Goals
+I'm working toward a career at the intersection of software engineering and applied AI/data science. Currently focused on:
+Strengthening core DSA and problem-solving ability for SDE interviews
+Landing an SDE, Data Science, or AI/ML internship
+Building production-quality, end-to-end projects — not just notebooks
+Making meaningful open-source contributions
+Deepening expertise in Generative AI and LLM applications
+<br>
 ---
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rabisankar1&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
+Connect With Me
+<div align="center">
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+</div>
+<br>
 ---
-
-## 💡 Quote
-
-<p align="center">
-  <i>⭐ "Consistency beats talent when talent doesn't practice."</i>
-</p>
-This is my readme you know How to make this more professional  to 
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+<br><br>
+"Consistency compounds — in code, in learning, and in building things that last."
+</div>
