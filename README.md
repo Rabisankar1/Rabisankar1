@@ -3,11 +3,11 @@ Rabisankar Pradhan
 Engineering intelligent systems — one algorithm, one model, one API at a time.
 B.Tech CSE (Data Science) '28 · Building at the intersection of DSA, Data Science & Generative AI
 <br>
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Portfolio](YOUR_PORTFOLIO_URL)
+![LinkedIn](YOUR_LINKEDIN_URL)
+![GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+![LeetCode](YOUR_LEETCODE_URL)
+![Email](mailto:YOUR_EMAIL_ADDRESS)
 </div>
 <br>
 ---
@@ -81,21 +81,21 @@ YOUR_PROJECT_NAME	Placeholder — add a short description of the project's purpo
 ---
 GitHub Statistics
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR\_GITHUB\_USERNAME\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&count\_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR\_GITHUB\_USERNAME\&theme=tokyonight\&hide\_border=true" />
 <br>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR\_GITHUB\_USERNAME\&layout=compact\&theme=tokyonight\&hide\_border=true" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR\_GITHUB\_USERNAME\&theme=tokyo-night\&hide\_border=true" />
 </div>
 <br>
 ---
 Coding Profiles
 <div align="center">
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode](YOUR_LEETCODE_URL)
+![GeeksforGeeks](YOUR_GFG_URL)
+![HackerRank](YOUR_HACKERRANK_URL)
+![CodeChef](YOUR_CODECHEF_URL)
 </div>
 <br>
 ---
@@ -121,11 +121,11 @@ Deepening expertise in Generative AI and LLM applications
 ---
 Connect With Me
 <div align="center">
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+![LinkedIn](YOUR_LINKEDIN_URL)
+![Portfolio](YOUR_PORTFOLIO_URL)
+![LeetCode](YOUR_LEETCODE_URL)
+![GeeksforGeeks](YOUR_GFG_URL)
 </div>
 <br>
 ---
